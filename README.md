@@ -49,7 +49,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
   <!-- <img alt="Happy Web" title="Happy Web" src="imgs/tela-mobile-happy.png" width="800px"> -->
 </p>
 
-## 💻 Executando a aplicação Happy
+## 💻 Executando a aplicação
 
 ### Requisitos necessários
 
